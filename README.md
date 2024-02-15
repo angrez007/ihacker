@@ -4,9 +4,8 @@
 
 Username and password authentication.<br />
 5515 Port for fast serve.<br />
-Available for CentOS 5, CentOS 6, CentOS 7 & (Centos 8/Debian/Ubuntu - Coming Soon!).<br />
+Available for CentOS 7<br />
 Less code for fast deployment.<br />
-
 
 # How to Start Setup
 
@@ -26,7 +25,7 @@ yum install wget
 ```
 COPY FILE
 ```
-wget https://raw.githubusercontent.com/i-hacker/proxy/main/cmd
+wget https://raw.githubusercontent.com/angrez007/ihacker/main/cmd
 ```
 FOR CENTOS 7
 ```
@@ -35,14 +34,6 @@ bash cmd -rhel7
 COMMON PASSWORD
 ```
 ifast
-```
-FOR CENTOS 6
-```
-bash cmd -rhel6
-```
-FOR CENTOS 5
-```
-bash cmd -rhel5
 ```
 # All Done, You Are Good to Go!
 
