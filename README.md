@@ -33,7 +33,7 @@ bash cmd -rhel7
 ```
 COMMON PASSWORD
 ```
-ifast
+ifast007
 ```
 # All Done, You Are Good to Go!
 
